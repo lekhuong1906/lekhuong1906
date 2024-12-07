@@ -28,7 +28,7 @@
 
 <br/>
 
-**:computer:&nbsp;Languages and Library and Framework:**
+**:computer:&nbsp;Languages&Framework and Library :**
 
 <div>
 
