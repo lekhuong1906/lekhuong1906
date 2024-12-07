@@ -20,20 +20,10 @@
 
 **🛠 &nbsp;Tools:**
 
-<!-- VsCode -->
 
 <code><img src="./assets/icon/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;</code>
-
-<!-- Navicat -->
-
 <code><img src="./assets/icon/navicat.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;</code>
-
-<!-- Postman -->
-
 <code><img src="./assets/icon/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;</code>
-
-<!-- Docker -->
-
 <code><img src="./assets/icon/docker.svg" title="Docker"  alt="docker" width="" height="40"/>&nbsp;</code>
 
 <br/>
