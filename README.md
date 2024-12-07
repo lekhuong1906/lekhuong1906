@@ -16,7 +16,7 @@
 **🔥 About me 🔥**
 
 - 💬 Nguyễn Lê Khương
-- 📮 [Email contact](lekhuong190602@gmail.com)
+- 📮 [Email Contact](lekhuong190602@gmail.com)
 - 💼 Php Developer (Laravel)
 
 **🛠 &nbsp;Tools:**
