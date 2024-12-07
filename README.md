@@ -7,18 +7,17 @@
 - 💬 Nguyễn Lê Khương
 - 📮 [Email Contact](lekhuong190602@gmail.com)
 - 💼 Php Developer (Laravel)
-
-<div>
-<a href="https://www.facebook.com/profile.php?id=100025818789387">
-<img align="left" alt="Facebook" width="40" height="40" src="./assets/gifs/fb.gif" />
-</a>
-<a href="https://www.instagram.com/lekhuong1906/">
-<img align="left" alt="instagram" width="40" height="40" src="./assets/gifs/ins.gif" />
-</a>
-<a href="https://www.linkedin.com/in/khuongng190602/">
-<img align="left" alt="linkedin" width="40" height="40" src="./assets/gifs/link.gif" />
-</a>
-</div>
+- 🕹 Connect via social: <div>
+  <a href="https://www.facebook.com/profile.php?id=100025818789387">
+  <img align="left" alt="Facebook" width="30" height="30" src="./assets/gifs/fb.gif" />
+  </a>
+  <a href="https://www.instagram.com/lekhuong1906/">
+  <img align="left" alt="instagram" width="30" height="30" src="./assets/gifs/ins.gif" />
+  </a>
+  <a href="https://www.linkedin.com/in/khuongng190602/">
+  <img align="left" alt="linkedin" width="30" height="30" src="./assets/gifs/link.gif" />
+  </a>
+  </div>
 
 <br>
 <br>
