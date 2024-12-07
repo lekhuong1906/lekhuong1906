@@ -24,16 +24,20 @@
 <br>
 <br>
 
-**🛠 &nbsp;Tools:**
+**🛠 &nbsp;Tools & OS:**
 
 <code><img src="./assets/icon/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;</code><!-- VsCode -->
 <code><img src="./assets/icon/navicat.svg" title="Navicat" alt="navicat" width="40" height="40"/>&nbsp;</code><!-- Navicat -->
-<code><img src="./assets/icon/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;</code><!-- Postman -->
-<code><img src="./assets/icon/docker.svg" title="Docker"  alt="docker" width="" height="40"/>&nbsp;</code><!-- Docker -->
+<code><img src="./assets/icon/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;</code><!-- Postman -->
+<code><img src="./assets/icon/docker.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;</code><!-- Docker -->
+<code><img src="./assets/icon/linux.svg" title="Linux" alt="linux" width="40" height="40"/>&nbsp;</code><!-- Linux -->
+<code><img src="./assets/icon/windown-os.svg" title="Windown OS" alt="windown" width="40" height="40"/>&nbsp;</code><!-- Windown Os -->
+<code><img src="./assets/icon/mac-os.svg" title="MacOS" alt="mac" width="40" height="40"/>&nbsp;</code><!-- MacOS -->
+
 
 <br/>
 
-**:computer:&nbsp;Languages&Framework and Library :**
+**:computer:&nbsp;Languages, Framework and Library :**
 
 <div>
 
