@@ -21,7 +21,6 @@
   </div>
 
 <br>
-<hr>
 
 **🛠 &nbsp;Tools:**
 
