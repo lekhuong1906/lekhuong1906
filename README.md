@@ -61,7 +61,6 @@
 
 <code><img src="./assets/icon/mysql.svg" title="MySQL"  alt="MySql" width="40" height="40"/>&nbsp;</code> <!-- MySql-->
 <code><img src="./assets/icon/mongodb-original-wordmark.svg" title="MongoDb" alt="mongodb" width="40" height="40"/>&nbsp;</code> <!-- MongoDb-->
-
 <!-- <code><img src="./assets/icon/redis-original-wordmark.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;</code> Redis -->
 
 </div>
@@ -75,5 +74,3 @@
 <br/>
 
 **💚 Thanks for coming 💛**
-
-<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=mainhatnam&style=flat-square&color=blueviolet" alt="profile view"></p> -->
