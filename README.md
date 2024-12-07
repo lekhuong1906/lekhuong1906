@@ -18,8 +18,11 @@
 <a href="https://www.linkedin.com/in/khuongng190602/">
 <img align="left" alt="linkedin" width="40" height="40" src="./assets/gifs/link.gif" />
 </a>
-
 </div>
+
+<br>
+<br>
+<br>
 
 **🛠 &nbsp;Tools:**
 
