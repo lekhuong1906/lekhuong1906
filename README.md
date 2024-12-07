@@ -1,4 +1,4 @@
-### 💛 Thank for visit there 💚
+### 💛 Thanks For Visiting My Repo 💚
 
 <a href="https://www.facebook.com/profile.php?id=100025818789387">
   <img align="left" alt="Facebook" width="40" height="40" src="./assets/gifs/fb.gif" />
@@ -65,6 +65,6 @@
 </div>
 <br/>
 
-**Thanks for coming**
+**💚 Thanks for coming 💛**
 
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=mainhatnam&style=flat-square&color=blueviolet" alt="profile view"></p> -->
