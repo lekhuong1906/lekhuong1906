@@ -1,4 +1,4 @@
-### Hi there<img src="./assets/gifs/hi.gif" width="25">
+### 💛 Thank for visit there 💚
 
 <a href="https://www.facebook.com/profile.php?id=100025818789387">
   <img align="left" alt="Facebook" width="40" height="40" src="./assets/gifs/fb.gif" />
@@ -16,7 +16,7 @@
 **🔥 About me 🔥**
 
 - 💬 Nguyễn Lê Khương
-- 📮 Email Contact: lekhuong190602@gmail.com
+- 📮 [Email contact](lekhuong190602@gmail.com)
 - 💼 Php Developer (Laravel)
 
 **🛠 &nbsp;Tools:**
@@ -60,7 +60,7 @@
 
 <div align="center">
   <div>
-    <img src="./assets/gifs/J4o.gif">
+    <img src="./assets/gifs/pacman.gif">
   </div>
 </div>
 <br/>
